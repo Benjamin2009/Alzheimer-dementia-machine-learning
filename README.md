@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/Benjamin2009/Alzheimer-dementia-machine-learning/main/alzehemiers.jpeg" width="900" height="600"/>
+<img src="https://raw.githubusercontent.com/Benjamin2009/Alzheimer-dementia-machine-learning/main/alzehemiers.jpeg" width="600" height="400"/>
 
-# Predicting Alzheimer's-related Dementia Using Machine Learning
+## Predicting Alzheimer's-related Dementia Using Machine Learning
 
 ### Alzheimer's disease and dementia
 
